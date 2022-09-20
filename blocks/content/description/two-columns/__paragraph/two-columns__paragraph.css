@@ -1,0 +1,9 @@
+.two-columns__paragraph {
+	line-height: 34px;
+	font-size: 24px;
+	font-weight: normal;
+	min-height: 30px;
+	text-align: left;
+	margin: 0;
+	padding: 0;
+}
