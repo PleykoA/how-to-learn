@@ -1,13 +1,3 @@
-@keyframes rotation {
-	0% {
-		transform: rotate(0deg);
-	}
-
-	100% {
-		transform: rotate(360deg);
-	}
-}
-
 .kaufman__triangle {
 	background-image: url(../../../../images/kaufman-triangle.svg);
 	background-position: center;
@@ -22,3 +12,6 @@
 	animation: rotation linear 20s infinite;
 }
 
+.kaufman__triangle .rotation {
+  animation: rotation linear 20s infinite;
+}
