@@ -1,10 +1,8 @@
 .cards {
 	display: flex;
 	flex-wrap: wrap;
-	margin: 0 auto;
-	padding: 0;
 	width: 80%;
-}
-.cards:nth-child(3n) {
-  margin-right: 0px;
-}
+  margin: 0 auto;
+  padding: 0;
+ }
+
