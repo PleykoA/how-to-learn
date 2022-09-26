@@ -4,3 +4,6 @@
 	margin: 60px 100px 0px 0px;
 }
 
+.cards:nth-child(3n) {
+  margin-right: 0px;
+}
